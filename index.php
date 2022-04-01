@@ -26,6 +26,6 @@
         </p>
     </div>
 
-    <?php include_once "inc/footer.php"; ?>
+    <?php require_once("inc/footer.php"); ?>
 </body>
 </html>
