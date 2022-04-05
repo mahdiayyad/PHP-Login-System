@@ -37,7 +37,8 @@
                 <div class="uk-margin uk-alert uk-alert-danger js-error" style="display:none;"></div>
 
                 <div class="uk-margin">
-                    <button class="uk-button uk-button-default" type="submit">Login</button>
+                    <button class="uk-button uk-button-primary" type="submit">Login</button>
+                    <p>Don't have an account? <a href="./register.php" style="color: #f79f24; text-decoration: none;">Register</a></p> 
                 </div>
 
             </form>

@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background: #f8f9fd !important;
+}
+
+a {
+    color: #f79f24 !important;; 
+    text-decoration: none !important;
+}

@@ -21,7 +21,7 @@
 <body>
     <div class="uk-section uk-container">
        <h2>Dashboard</h2> 
-       <p>Hello <?php echo $User->email; ?>, you are registered <?php echo $User->reg_time; ?></p>
+       <p>Hello <?php echo $User->firstname; ?>, you are registered <?php echo $User->reg_time; ?></p>
        <p><a href="./logout.php">Logout</a></p>
     </div>
 
